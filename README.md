@@ -1,5 +1,5 @@
 ## Compilers targeting Python
-
+See the main [list of languages that compile to Python](https://github.com/vindarel/languages-that-compile-to-python).
 | Project name/link | Language(s) supported | Notes |
 |-------------------|-----------------------|-------|
 | [Bridgekeeper](http://www.crazy-compilers.com/bridgekeeper/) | Perl | |
