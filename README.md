@@ -24,6 +24,8 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | Project name/link | Language(s) supported | Notes |
 |-------------------|-----------------------|-------|
 | [Grumpy](https://github.com/google/grumpy) | Python | |
+| [go2cpp](https://github.com/xyproto/go2cpp) | C++ | |
+
 ## Compilers targeting GLSL
 
 | Project name/link | Language(s) supported | Notes |
