@@ -15,6 +15,8 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 
 ## Compilers targeting JavaScript
 [List of languages that compile to JavaScript](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS)
+## Compilers targeting Julia
+[Matlab to Julia](https://lakras.github.io/matlab-to-julia/)
 ## Compilers targeting WebAssembly
 [List of languages that compile to WebAssembly](https://github.com/appcypher/awesome-wasm-langs)
 ## Compilers targeting C
