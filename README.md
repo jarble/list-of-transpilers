@@ -4,6 +4,16 @@
 |-------------------|-----------------------|
 | [Bridgekeeper](http://www.crazy-compilers.com/bridgekeeper/) | Perl |
 
+## Compilers targeting PHP
+
+| Project name/link | Language(s) supported |
+|-------------------|-----------------------|
+| [python-to-PHP](https://github.com/jneuendorf/python_to_php) | Python |
+| [js2php](https://github.com/endel/js2php) | JavaScript |
+| [lua2php](https://github.com/zaoqi/lua2php) | Lua |
+| [cs2php](https://github.com/isukces/cs2php) | C# |
+| [java2php](https://github.com/bafolts/java2php) | Java |
+
 ## Compilers targeting C#
 
 | Project name/link | Language(s) supported |
@@ -57,8 +67,11 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
+| [Godzilla](https://github.com/owenthereal/godzilla) | JavaScript |
 | [Grumpy](https://github.com/google/grumpy) | Python |
 | [go2cpp](https://github.com/xyproto/go2cpp) | C++ |
+| [php2go](https://github.com/sters/phptogo) | PHP |
+| [pas2go](https://github.com/benhoyt/pas2go) | Pascal |
 
 ## Compilers targeting GLSL
 
@@ -66,4 +79,11 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 |-------------------|-----------------------|
 | [SPIRV-CROSS](https://github.com/KhronosGroup/SPIRV-Cross) | SPIR-V |
 | [https://github.com/stackgl/glsl-transpiler](GLSL-transpiler) | JavaScript |
-| [varjo](https://github.com/KhronosGroup/SPIRV-Cross) | Vari |
+## Compilers targeting Bash
+
+| Project name/link | Language(s) supported |
+|-------------------|-----------------------|
+| [BashScript](https://github.com/niieani/bashscript) | TypeScript |
+| [BashJS](https://github.com/jcampbell05/bashjs) | JavaScript |
+| [Lua2Bash](https://github.com/forflo/lua2bash) | Lua |
+| [sherlock.py](https://github.com/Luavis/sherlock.py) | Python |
