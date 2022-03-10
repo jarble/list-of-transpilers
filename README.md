@@ -1,10 +1,14 @@
-## Compilers targeting Python
+# List of transpilers, sorted by target language
+## Python
 
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
+| [JS2Py](https://github.com/PiotrDabkowski/Js2Py) | JavaScript |
 | [Bridgekeeper](http://www.crazy-compilers.com/bridgekeeper/) | Perl |
+| [ti842py](https://github.com/TabulateJarl8/ti842py) | TI-84 Basic |
+| [matlab-to-python-online-transpiler](https://github.com/pAndradeFh/matlab-to-python-online-transpiler) | Matlab |
 
-## Compilers targeting PHP
+## PHP
 
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
@@ -14,7 +18,7 @@
 | [cs2php](https://github.com/isukces/cs2php) | C# |
 | [java2php](https://github.com/bafolts/java2php) | Java |
 
-## Compilers targeting C#
+## C#
 
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
@@ -23,19 +27,19 @@
 | [fs2cs](https://github.com/hsharpsoftware/fs2cs) | F# |
 | [Sharpify](https://github.com/kthompson/sharpify) | JavaScript |
 
-## Compilers targeting Swift
+## Swift
 
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
 | [Kotlift](https://github.com/studo-app/Kotlift) | Kotlin |
 
-## Compilers targeting Kotlin
+## Kotlin
 
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
 | [Gryphon](https://github.com/vinivendra/Gryphon) | Swift |
 | [SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin) | Swift | 
-## Compilers targeting Lua
+## Lua
 See the main [list of languages that compile to Lua](https://github.com/hengestone/lua-languages).
 
 | Project name/link | Language(s) supported |
@@ -45,9 +49,9 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [MoonScript](https://moonscript.org/) | Moonscript |
 | [CSharp.lua](https://github.com/yanghuan/CSharp.lua) | Lua |
 
-## Compilers targeting JavaScript
+## JavaScript
 [List of languages that compile to JavaScript](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS)
-## Compilers targeting Rust
+## Rust
 
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
@@ -57,13 +61,13 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [Crust](https://github.com/NishanthSpShetty/crust) | C++ |
 | [Rustly](https://github.com/timothypratley/rustly) | Clojure |
 | [Rustre](https://github.com/emersion/rustre) | Lustre |
-## Compilers targeting Julia
+## Julia
 [Matlab to Julia](https://lakras.github.io/matlab-to-julia/)
-## Compilers targeting WebAssembly
+## WebAssembly
 [List of languages that compile to WebAssembly](https://github.com/appcypher/awesome-wasm-langs)
-## Compilers targeting C
+## C
 [Compilers targeting C](https://github.com/dbohdan/compilers-targeting-c)
-## Compilers targeting Go
+## Go
 
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
@@ -73,13 +77,13 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [php2go](https://github.com/sters/phptogo) | PHP |
 | [pas2go](https://github.com/benhoyt/pas2go) | Pascal |
 
-## Compilers targeting GLSL
+## GLSL
 
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
 | [SPIRV-CROSS](https://github.com/KhronosGroup/SPIRV-Cross) | SPIR-V |
 | [https://github.com/stackgl/glsl-transpiler](GLSL-transpiler) | JavaScript |
-## Compilers targeting Bash
+## Bash
 
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
@@ -87,3 +91,14 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [BashJS](https://github.com/jcampbell05/bashjs) | JavaScript |
 | [Lua2Bash](https://github.com/forflo/lua2bash) | Lua |
 | [sherlock.py](https://github.com/Luavis/sherlock.py) | Python |
+
+## Fortran
+| Project name/link | Language(s) supported |
+|-------------------|-----------------------|
+| [c2f](https://github.com/Beliavsky/c2f) | C |
+| [matlab2fortran](https://github.com/ebranlard/matlab2fortran) | Matlab |
+
+## Perl
+| Project name/link | Language(s) supported |
+|-------------------|-----------------------|
+| [f77-to-perl](https://github.com/shancock9/f77-to-perl) | Fortran |
