@@ -102,3 +102,29 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
 | [f77-to-perl](https://github.com/shancock9/f77-to-perl) | Fortran |
+| [app-a2p](https://github.com/Leont/app-a2p) | Awk |
+
+
+## Haxe
+| Project name/link | Language(s) supported |
+|-------------------|-----------------------|
+| [ax3](https://github.com/innogames/ax3), [as2hx](https://github.com/zacx-z/as2hx) | AS3 |
+| [Cs2hx](https://github.com/FizzerWL/Cs2hx), [Phase](https://github.com/CoderLine/Phase) | C# |
+| [Jaxe](https://github.com/darmie/Jaxe) | Java |
+| [tardisgo](https://github.com/tardisgo/tardisgo) | Go |
+
+## Scala
+| Project name/link | Language(s) supported |
+|-------------------|-----------------------|
+| [CsScala](https://github.com/FizzerWL/CsScala) | C# |
+| [java2scala](https://github.com/koofr/javatoscala) | Java |
+
+## Ruby
+| Project name/link | Language(s) supported |
+|-------------------|-----------------------|
+| [CPP2Ruby](https://github.com/jackieju/CPP2Ruby) | C++ |
+
+## Java
+| Project name/link | Language(s) supported |
+|-------------------|-----------------------|
+| [py2java](https://github.com/Ethosa/py2java) | Python |
