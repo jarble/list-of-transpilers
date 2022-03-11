@@ -183,6 +183,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [mathematica-matlab](https://github.com/thearchitector/Mathematica-MATLAB) | Wolfram Mathematica
 
 ## SQL
+[Languages that compile to SQL](https://github.com/ajnsit/languages-that-compile-to-sql)
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
 | [Grizzly](https://github.com/dbis-ilm/grizzly) | Python |
