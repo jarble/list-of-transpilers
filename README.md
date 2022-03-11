@@ -9,6 +9,7 @@
 | [matlab-to-python-online-transpiler](https://github.com/pAndradeFh/matlab-to-python-online-transpiler), [matlab2python](https://github.com/ebranlard/matlab2python) | Matlab |
 | [csharptopython](https://github.com/CoderNate/CSharpToPython) | C# |
 | [gotopy](https://github.com/goki/gotopy) | Go |
+| [infl](https://github.com/cyndis/infl) | Ruby |
 
 ## PHP
 
@@ -138,7 +139,8 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 ## Ruby
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
-| [CPP2Ruby](https://github.com/jackieju/CPP2Ruby) | C++ |
+| [CPP2Ruby](https://github.com/jackieju/CPP2Ruby), [C++ To C#/Ruby Code Converter](https://github.com/sp0wk/Cpp2CsharpRuby_CodeConverter) | C++ |
+| [Py2rb](https://github.com/naitoh/py2rb) | Python |
 
 ## Java
 | Project name/link | Language(s) supported |
