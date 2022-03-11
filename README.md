@@ -6,7 +6,9 @@
 | [JS2Py](https://github.com/PiotrDabkowski/Js2Py) | JavaScript |
 | [Bridgekeeper](http://www.crazy-compilers.com/bridgekeeper/) | Perl |
 | [ti842py](https://github.com/TabulateJarl8/ti842py) | TI-84 Basic |
-| [matlab-to-python-online-transpiler](https://github.com/pAndradeFh/matlab-to-python-online-transpiler) | Matlab |
+| [matlab-to-python-online-transpiler](https://github.com/pAndradeFh/matlab-to-python-online-transpiler), [matlab2python](https://github.com/ebranlard/matlab2python) | Matlab |
+| [csharptopython](https://github.com/CoderNate/CSharpToPython) | C# |
+| [gotopy](https://github.com/goki/gotopy) | Go |
 
 ## PHP
 
@@ -18,21 +20,27 @@
 | [cs2php](https://github.com/isukces/cs2php) | C# |
 | [java2php](https://github.com/bafolts/java2php) | Java |
 | [perl2php](https://github.com/phpify/perl2php) | Perl |
+| [peeble](https://github.com/thinkbeforecoding/peeble) | F# |
 
 ## C#
 
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
-| [JavaSharp](https://github.com/justiceo/JavaSharp) | Java |
+| [JavaSharp](https://github.com/justiceo/JavaSharp), [Java2CSharp](https://github.com/paulirwin/JavaToCSharp) | Java |
 | [Go2cs](https://github.com/GridProtectionAlliance/go2cs) | Go |
 | [fs2cs](https://github.com/hsharpsoftware/fs2cs) | F# |
 | [Sharpify](https://github.com/kthompson/sharpify) | JavaScript |
+| [Hebron](https://github.com/HebronFramework/Hebron) | C |
+| [py2cs](https://github.com/uxmal/pytocs) | Python |
 
 ## Swift
 
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
+| [SharpSwift](https://github.com/matthewsot/SharpSwift) | C# |
 | [Kotlift](https://github.com/studo-app/Kotlift) | Kotlin |
+| [objc2swift](https://github.com/okaxaki/objc2swift), [Swiftify](https://github.com/Swiftify-Corp/Swiftify) | Objective-C |
+| [j2swift](https://github.com/eyob--/j2swift) | Java |
 
 ## Kotlin
 
@@ -74,7 +82,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
 | [Godzilla](https://github.com/owenthereal/godzilla) | JavaScript |
-| [Grumpy](https://github.com/google/grumpy) | Python |
+| [Grumpy](https://github.com/google/grumpy), [Gython](https://github.com/gython/Gython) | Python |
 | [go2cpp](https://github.com/xyproto/go2cpp) | C++ |
 | [php2go](https://github.com/sters/phptogo) | PHP |
 | [pas2go](https://github.com/benhoyt/pas2go) | Pascal |
@@ -125,6 +133,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 |-------------------|-----------------------|
 | [CsScala](https://github.com/FizzerWL/CsScala) | C# |
 | [java2scala](https://github.com/koofr/javatoscala) | Java |
+| [scala-golang-converter](https://github.com/jasonmar/scala-golang-converter) | Go |
 
 ## Ruby
 | Project name/link | Language(s) supported |
@@ -165,6 +174,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 ## TypeScript
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
+| [typescriptr](https://github.com/gkinsman/Typescriptr) | C# |
 | [dart2ts](https://github.com/polymer-dart/dart2ts) | Dart |
 | [lua2typescript](https://github.com/hazzard993/LuaToTypeScript) | Lua |
 
@@ -187,3 +197,13 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
 | [Grizzly](https://github.com/dbis-ilm/grizzly) | Python |
+
+## Coq
+| Project name/link | Language(s) supported |
+|-------------------|-----------------------|
+| [Goose](https://github.com/tchajed/goose) | Go |
+
+## F#
+| Project name/link | Language(s) supported |
+|-------------------|-----------------------|
+| [cs2fs](https://github.com/jindraivanek/cs2fs) | C# |
