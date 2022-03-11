@@ -10,6 +10,7 @@
 | [csharptopython](https://github.com/CoderNate/CSharpToPython) | C# |
 | [gotopy](https://github.com/goki/gotopy) | Go |
 | [infl](https://github.com/cyndis/infl) | Ruby |
+| [ToPython](https://github.com/gwiederhecker/ToPython) | Mathematica |
 
 ## PHP
 
