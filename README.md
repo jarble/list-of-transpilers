@@ -129,7 +129,6 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [Jaxe](https://github.com/darmie/Jaxe) | Java |
 | [tardisgo](https://github.com/tardisgo/tardisgo) | Go |
 | [node-ts2hx](https://github.com/jeremyfa/node-ts2hx) | TypeScript |
-| [ts2hx](https://github.com/Ezelia/ts2haxe) | TypeScript |
 | [Dragon](https://github.com/nightblade9/dragon) | Python |
 | [go2hx](https://github.com/go2hx/go2hx) | Go |
 
