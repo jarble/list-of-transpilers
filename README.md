@@ -17,6 +17,7 @@
 | [lua2php](https://github.com/zaoqi/lua2php) | Lua |
 | [cs2php](https://github.com/isukces/cs2php) | C# |
 | [java2php](https://github.com/bafolts/java2php) | Java |
+| [perl2php](https://github.com/phpify/perl2php) | Perl |
 
 ## C#
 
@@ -153,12 +154,16 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 ## Nim
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
+| [c2nim](https://github.com/nim-lang/c2nim) | C |
+| [py2nim](https://github.com/metacraft-labs/py2nim) | Python |
 | [Craxe](https://github.com/RapidFingers/Craxe) | Haxe |
+| [ts2nim](https://github.com/bung87/ts2nim) | TypeScript |
 
 ## TypeScript
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
 | [dart2ts](https://github.com/polymer-dart/dart2ts) | Dart |
+| [lua2typescript](https://github.com/hazzard993/LuaToTypeScript) | Lua |
 
 ## Dart
 | Project name/link | Language(s) supported |
