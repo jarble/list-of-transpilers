@@ -211,3 +211,8 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
 | [cs2fs](https://github.com/jindraivanek/cs2fs) | C# |
+
+## R
+| Project name/link | Language(s) supported |
+|-------------------|-----------------------|
+| [matconv](https://github.com/sidjai/matconv) | R |
