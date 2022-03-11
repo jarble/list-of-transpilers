@@ -138,8 +138,11 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [m2j](https://github.com/m2sf/m2j) | Modula-2 |
 | [objc2java](https://github.com/gelisam/objc2java) | Objective-C |
 | [CrossCompiling](https://github.com/Glympse/CrossCompiling) | C++ |
-| [csharp2java](https://github.com/nagyistoce/Csharp2java) | C# |
-| [dart2java](https://github.com/google/dart2java) Dart |
+| [csharp2java](https://github.com/nagyistoce/Csharp2java), [cs2j](https://github.com/twiglet/cs2j) | C# |
+| [dart2java](https://github.com/google/dart2java) | Dart |
+| [Rubyflux](https://github.com/headius/rubyflux) | Ruby |
+| [luaj](https://github.com/luaj/luaj) | Lua |
+| [m2j](https://github.com/m2sf/m2j) | Modula-2 |
 
 ## GLSL
 | Project name/link | Language(s) supported |
@@ -169,3 +172,12 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
 | [ts2dart](https://github.com/dart-archive/ts2dart) | TypeScript |
+| [py2dart](https://github.com/Artanidos/Py2Dart) | Python |
+| [objc2dart](https://github.com/davidchisnall/ObjC2Dart) | Objective-C |
+| [java2dart](https://github.com/adam-singer/java2dart) | Java |
+
+## Matlab
+| Project name/link | Language(s) supported |
+|-------------------|-----------------------|
+| [f2matlab](https://github.com/benbarrowes/f2matlab) | Fortran |
+| [mathematica-matlab](https://github.com/thearchitector/Mathematica-MATLAB) | Wolfram Mathematica
