@@ -174,6 +174,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 ## TypeScript
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
+| [java2typescript](https://github.com/datathings/java2typescript) | Java |
 | [typescriptr](https://github.com/gkinsman/Typescriptr) | C# |
 | [dart2ts](https://github.com/polymer-dart/dart2ts) | Dart |
 | [lua2typescript](https://github.com/hazzard993/LuaToTypeScript) | Lua |
