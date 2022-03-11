@@ -6,6 +6,7 @@
 | [JS2Py](https://github.com/PiotrDabkowski/Js2Py) | JavaScript |
 | [Bridgekeeper](http://www.crazy-compilers.com/bridgekeeper/) | Perl |
 | [ti842py](https://github.com/TabulateJarl8/ti842py) | TI-84 Basic |
+| [smop](https://github.com/victorlei/smop) | Matlab, Octave |
 | [matlab-to-python-online-transpiler](https://github.com/pAndradeFh/matlab-to-python-online-transpiler), [matlab2python](https://github.com/ebranlard/matlab2python) | Matlab |
 | [csharptopython](https://github.com/CoderNate/CSharpToPython) | C# |
 | [gotopy](https://github.com/goki/gotopy) | Go |
