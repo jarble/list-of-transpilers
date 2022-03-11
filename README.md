@@ -128,7 +128,8 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [Cs2hx](https://github.com/FizzerWL/Cs2hx), [Phase](https://github.com/CoderLine/Phase) | C# |
 | [Jaxe](https://github.com/darmie/Jaxe) | Java |
 | [tardisgo](https://github.com/tardisgo/tardisgo) | Go |
-| [ts2hx](https://github.com/jeremyfa/node-ts2hx) | TypeScript |
+| [node-ts2hx](https://github.com/jeremyfa/node-ts2hx) | TypeScript |
+| [ts2hx](https://github.com/Ezelia/ts2haxe) | TypeScript |
 | [Dragon](https://github.com/nightblade9/dragon) | Python |
 | [go2hx](https://github.com/go2hx/go2hx) | Go |
 
@@ -183,6 +184,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [typescriptr](https://github.com/gkinsman/Typescriptr) | C# |
 | [dart2ts](https://github.com/polymer-dart/dart2ts) | Dart |
 | [lua2typescript](https://github.com/hazzard993/LuaToTypeScript) | Lua |
+| [wax](https://github.com/LingDong-/wax) | Wax |
 
 ## Dart
 | Project name/link | Language(s) supported |
