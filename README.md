@@ -151,6 +151,12 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 |-------------------|-----------------------|
 | [Craxe](https://github.com/RapidFingers/Craxe) | Haxe |
 
-## Others
-* [ts2dart](https://github.com/dart-archive/ts2dart)
-* [dart2ts](https://github.com/polymer-dart/dart2ts)
+## TypeScript
+| Project name/link | Language(s) supported |
+|-------------------|-----------------------|
+| [dart2ts](https://github.com/polymer-dart/dart2ts) | Dart |
+
+## Dart
+| Project name/link | Language(s) supported |
+|-------------------|-----------------------|
+| [ts2dart](https://github.com/dart-archive/ts2dart) | TypeScript |
