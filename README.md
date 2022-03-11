@@ -115,6 +115,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [tardisgo](https://github.com/tardisgo/tardisgo) | Go |
 | [ts2hx](https://github.com/jeremyfa/node-ts2hx) | TypeScript |
 | [Dragon](https://github.com/nightblade9/dragon) | Python |
+| [go2hx](https://github.com/go2hx/go2hx) | Go |
 
 ## Scala
 | Project name/link | Language(s) supported |
@@ -149,3 +150,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
 | [Craxe](https://github.com/RapidFingers/Craxe) | Haxe |
+
+## Others
+* [ts2dart](https://github.com/dart-archive/ts2dart)
+* [dart2ts](https://github.com/polymer-dart/dart2ts)
