@@ -90,6 +90,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [php2go](https://github.com/sters/phptogo) | PHP |
 | [pas2go](https://github.com/benhoyt/pas2go) | Pascal |
 | [f42go](https://github.com/Konstantin8105/f4go) | Fortran |
+| [ocaml2go](https://github.com/Lupus/ocaml2go) | OCaml |
 
 ## GLSL
 
