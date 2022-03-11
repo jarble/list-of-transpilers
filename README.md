@@ -77,6 +77,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [go2cpp](https://github.com/xyproto/go2cpp) | C++ |
 | [php2go](https://github.com/sters/phptogo) | PHP |
 | [pas2go](https://github.com/benhoyt/pas2go) | Pascal |
+| [f42go](https://github.com/Konstantin8105/f4go) | Fortran |
 
 ## GLSL
 
@@ -98,6 +99,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 |-------------------|-----------------------|
 | [c2f](https://github.com/Beliavsky/c2f) | C |
 | [matlab2fortran](https://github.com/ebranlard/matlab2fortran) | Matlab |
+| [transpyle](https://github.com/mbdevpl/transpyle) | Python |
 
 ## Perl
 | Project name/link | Language(s) supported |
@@ -135,6 +137,8 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [m2j](https://github.com/m2sf/m2j) | Modula-2 |
 | [objc2java](https://github.com/gelisam/objc2java) | Objective-C |
 | [CrossCompiling](https://github.com/Glympse/CrossCompiling) | C++ |
+| [csharp2java](https://github.com/nagyistoce/Csharp2java) | C# |
+| [dart2java](https://github.com/google/dart2java) Dart |
 
 ## GLSL
 | Project name/link | Language(s) supported |
