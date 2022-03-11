@@ -144,3 +144,8 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [JLSL](https://github.com/jglrxavpok/JLSL) | Java |
 | [SVG-to-GLSL-Converter](https://github.com/SunboX/SVG-to-GLSL-Converter) | SVG |
 | [Cg2glsl](https://github.com/kakashidinho/Cg2glsl) | CG |
+
+## Nim
+| Project name/link | Language(s) supported |
+|-------------------|-----------------------|
+| [Craxe](https://github.com/RapidFingers/Craxe) | Haxe |
