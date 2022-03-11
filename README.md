@@ -112,6 +112,8 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [Cs2hx](https://github.com/FizzerWL/Cs2hx), [Phase](https://github.com/CoderLine/Phase) | C# |
 | [Jaxe](https://github.com/darmie/Jaxe) | Java |
 | [tardisgo](https://github.com/tardisgo/tardisgo) | Go |
+| [ts2hx](https://github.com/jeremyfa/node-ts2hx) | TypeScript |
+| [Dragon](https://github.com/nightblade9/dragon) | Python |
 
 ## Scala
 | Project name/link | Language(s) supported |
@@ -127,4 +129,17 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 ## Java
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
-| [py2java](https://github.com/Ethosa/py2java) | Python |
+| [py2java](https://github.com/Ethosa/py2java), [p2j](https://github.com/chrishumphreys/p2j) | Python |
+| [m2j](https://github.com/m2sf/m2j) | Modula-2 |
+| [objc2java](https://github.com/gelisam/objc2java) | Objective-C |
+| [CrossCompiling](https://github.com/Glympse/CrossCompiling) | C++ |
+
+## GLSL
+| Project name/link | Language(s) supported |
+|-------------------|-----------------------|
+| [py2java](https://github.com/Soft8Soft/pyosl) | OSL |
+| [hlsl-into-glsl](https://github.com/spriest487/hlsl_into_glsl) | HLSL |
+| [SharpShader](https://github.com/Syncaidius/SharpShader) | C# |
+| [JLSL](https://github.com/jglrxavpok/JLSL) | Java |
+| [SVG-to-GLSL-Converter](https://github.com/SunboX/SVG-to-GLSL-Converter) | SVG |
+| [Cg2glsl](https://github.com/kakashidinho/Cg2glsl) | CG |
