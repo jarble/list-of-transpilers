@@ -181,3 +181,8 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 |-------------------|-----------------------|
 | [f2matlab](https://github.com/benbarrowes/f2matlab) | Fortran |
 | [mathematica-matlab](https://github.com/thearchitector/Mathematica-MATLAB) | Wolfram Mathematica
+
+## SQL
+| Project name/link | Language(s) supported |
+|-------------------|-----------------------|
+| [Grizzly](https://github.com/dbis-ilm/grizzly) | Python |
