@@ -56,11 +56,12 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
 | [Py2many](https://github.com/adsharma/py2many) | Python |
-| [Py2rs](https://github.com/konchunas/pyrs) | Python |
-| [C2Rust](https://github.com/immunant/c2rust) | C |
+| [Pyrs](https://github.com/konchunas/pyrs) | Python |
+| [C2Rust](https://github.com/immunant/c2rust), [Corrode](https://github.com/jameysharp/corrode) | C |
 | [Crust](https://github.com/NishanthSpShetty/crust) | C++ |
 | [Rustly](https://github.com/timothypratley/rustly) | Clojure |
 | [Rustre](https://github.com/emersion/rustre) | Lustre |
+| [Corollary](https://github.com/tcr/corollary) | Haskell |
 ## Julia
 [Matlab to Julia](https://lakras.github.io/matlab-to-julia/)
 ## WebAssembly
