@@ -59,7 +59,8 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [PyLua](https://github.com/vallentin/PyLua) | Python |
 | [Python-Lua](https://github.com/dmitrii-eremin/python-lua) | Python |
 | [MoonScript](https://moonscript.org/) | Moonscript |
-| [CSharp.lua](https://github.com/yanghuan/CSharp.lua) | Lua |
+| [CSharp.lua](https://github.com/yanghuan/CSharp.lua) | C# |
+| [typescript2lua](https://github.com/hazzard993/TypescriptToLua) | TypeScript |
 
 ## JavaScript
 [List of languages that compile to JavaScript](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS)
@@ -74,6 +75,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [Rustly](https://github.com/timothypratley/rustly) | Clojure |
 | [Rustre](https://github.com/emersion/rustre) | Lustre |
 | [Corollary](https://github.com/tcr/corollary) | Haskell |
+| [Lua2Rust](https://github.com/the-language/lua2rust) | Lua |
 ## Julia
 [Matlab to Julia](https://lakras.github.io/matlab-to-julia/)
 ## WebAssembly
@@ -219,3 +221,8 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
 | [matconv](https://github.com/sidjai/matconv) | R |
+
+## Common Lisp
+| Project name/link | Language(s) supported |
+|-------------------|-----------------------|
+| [Vacietis](https://github.com/vsedach/Vacietis) | C |
