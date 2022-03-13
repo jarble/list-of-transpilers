@@ -61,6 +61,9 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [MoonScript](https://moonscript.org/) | Moonscript |
 | [CSharp.lua](https://github.com/yanghuan/CSharp.lua) | C# |
 | [typescript2lua](https://github.com/hazzard993/TypescriptToLua) | TypeScript |
+| [js2lua](https://github.com/wizzard0/js2lua) | JavaScript |
+| [Wasynth](https://github.com/Rerumu/Wasynth) | WebAssembly |
+| [Pas2lua](https://github.com/Rerumu/Wasynth) | Pascal |
 
 ## JavaScript
 [List of languages that compile to JavaScript](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS)
