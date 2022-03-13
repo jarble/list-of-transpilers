@@ -226,3 +226,5 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
 | [Vacietis](https://github.com/vsedach/Vacietis) | C |
+| [Iota](https://github.com/froggey/Iota) | LLVM |
+| [CL-JavaScript](https://github.com/akapav/js) | JavaScript |
