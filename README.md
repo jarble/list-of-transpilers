@@ -223,7 +223,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 ## R
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
-| [matconv](https://github.com/sidjai/matconv) | R |
+| [matconv](https://github.com/sidjai/matconv) | Matlab, Erlang |
 
 ## Common Lisp
 | Project name/link | Language(s) supported |
