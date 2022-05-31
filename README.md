@@ -236,4 +236,4 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
 | [Efe](https://github.com/marianoguerra/efe) | Erlang |
-| [erl2ex]([https://github.com/marianoguerra/efe](https://github.com/dazuma/erl2ex)) | Erlang |
+| [erl2ex](https://github.com/dazuma/erl2ex) | Erlang |
