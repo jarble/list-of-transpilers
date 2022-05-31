@@ -231,3 +231,9 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [Vacietis](https://github.com/vsedach/Vacietis) | C |
 | [Iota](https://github.com/froggey/Iota) | LLVM |
 | [CL-JavaScript](https://github.com/akapav/js) | JavaScript |
+
+## Elixir
+| Project name/link | Language(s) supported |
+|-------------------|-----------------------|
+| [Efe](https://github.com/marianoguerra/efe) | Erlang |
+| [erl2ex]([https://github.com/marianoguerra/efe](https://github.com/dazuma/erl2ex)) | Erlang |
