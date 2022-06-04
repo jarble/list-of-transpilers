@@ -97,12 +97,6 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [f42go](https://github.com/Konstantin8105/f4go) | Fortran |
 | [ocaml2go](https://github.com/Lupus/ocaml2go) | OCaml |
 
-## GLSL
-
-| Project name/link | Language(s) supported |
-|-------------------|-----------------------|
-| [SPIRV-CROSS](https://github.com/KhronosGroup/SPIRV-Cross) | SPIR-V |
-| [https://github.com/stackgl/glsl-transpiler](GLSL-transpiler) | JavaScript |
 ## Bash
 
 | Project name/link | Language(s) supported |
@@ -172,6 +166,8 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [JLSL](https://github.com/jglrxavpok/JLSL) | Java |
 | [SVG-to-GLSL-Converter](https://github.com/SunboX/SVG-to-GLSL-Converter) | SVG |
 | [Cg2glsl](https://github.com/kakashidinho/Cg2glsl) | CG |
+| [SPIRV-CROSS](https://github.com/KhronosGroup/SPIRV-Cross) | SPIR-V |
+| [https://github.com/stackgl/glsl-transpiler](GLSL-transpiler) | JavaScript |
 
 ## Nim
 | Project name/link | Language(s) supported |
