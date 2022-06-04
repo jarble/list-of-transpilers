@@ -60,7 +60,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [Python-Lua](https://github.com/dmitrii-eremin/python-lua) | Python |
 | [MoonScript](https://moonscript.org/) | Moonscript |
 | [CSharp.lua](https://github.com/yanghuan/CSharp.lua) | C# |
-| [typescript2lua](https://github.com/hazzard993/TypescriptToLua) | TypeScript |
+| [typescript2lua](https://github.com/TypeScriptToLua/TypeScriptToLua) | TypeScript |
 | [js2lua](https://github.com/wizzard0/js2lua) | JavaScript |
 | [Wasynth](https://github.com/Rerumu/Wasynth) | WebAssembly |
 | [Pas2lua](https://github.com/Rerumu/Wasynth) | Pascal |
