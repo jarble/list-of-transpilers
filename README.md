@@ -75,6 +75,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [Pyrs](https://github.com/konchunas/pyrs) | Python |
 | [C2Rust](https://github.com/immunant/c2rust), [Corrode](https://github.com/jameysharp/corrode) | C |
 | [Crust](https://github.com/NishanthSpShetty/crust) | C++ |
+| [Rusby](https://github.com/rambler-digital-solutions/rusby) | Ruby |
 | [Rustly](https://github.com/timothypratley/rustly) | Clojure |
 | [Rustre](https://github.com/emersion/rustre) | Lustre |
 | [Corollary](https://github.com/tcr/corollary) | Haskell |
