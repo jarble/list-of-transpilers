@@ -88,7 +88,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 [Compilers targeting C](https://github.com/dbohdan/compilers-targeting-c)
 ## C++
 | Project name/link | Language(s) supported |
-| ------------------| -----------------------|
+| ------------------| ----------------------|
 | [go2cpp](https://github.com/xyproto/go2cpp) | C++ |
 
 ## Go
@@ -123,7 +123,6 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 |-------------------|-----------------------|
 | [f77-to-perl](https://github.com/shancock9/f77-to-perl) | Fortran |
 | [app-a2p](https://github.com/Leont/app-a2p) | Awk |
-#
 
 ## Haxe
 | Project name/link | Language(s) supported |
