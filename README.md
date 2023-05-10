@@ -89,7 +89,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 ## C++
 | Project name/link | Language(s) supported |
 | ------------------| ----------------------|
-| [go2cpp](https://github.com/xyproto/go2cpp) | C++ |
+| [go2cpp](https://github.com/xyproto/go2cpp) | Go |
 
 ## Go
 
