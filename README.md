@@ -1,4 +1,6 @@
 # List of transpilers, sorted by target language
+## C/C++
+[Compilers targeting C](https://github.com/dbohdan/compilers-targeting-c)
 ## Python
 [List of languages that compile to Python](https://github.com/vindarel/languages-that-compile-to-python)
 | Project name/link | Language(s) supported |
@@ -64,7 +66,6 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [js2lua](https://github.com/wizzard0/js2lua) | JavaScript |
 | [Wasynth](https://github.com/Rerumu/Wasynth) | WebAssembly |
 | [Pas2lua](https://github.com/Rerumu/Wasynth) | Pascal |
-
 ## JavaScript
 [List of languages that compile to JavaScript](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS)
 ## Rust
@@ -92,7 +93,6 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 |-------------------|-----------------------|
 | [Godzilla](https://github.com/owenthereal/godzilla) | JavaScript |
 | [Grumpy](https://github.com/google/grumpy), [Gython](https://github.com/gython/Gython) | Python |
-| [go2cpp](https://github.com/xyproto/go2cpp) | C++ |
 | [php2go](https://github.com/sters/phptogo) | PHP |
 | [pas2go](https://github.com/benhoyt/pas2go) | Pascal |
 | [f42go](https://github.com/Konstantin8105/f4go) | Fortran |
