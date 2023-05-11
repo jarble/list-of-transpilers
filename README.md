@@ -87,6 +87,11 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 [List of languages that compile to WebAssembly](https://github.com/appcypher/awesome-wasm-langs)
 ## C
 [Compilers targeting C](https://github.com/dbohdan/compilers-targeting-c)
+## C++
+| Project name/link | Language(s) supported |
+| ------------------| ----------------------|
+| [go2cpp](https://github.com/xyproto/go2cpp) | Go |
+
 ## Go
 
 | Project name/link | Language(s) supported |
@@ -119,7 +124,6 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 |-------------------|-----------------------|
 | [f77-to-perl](https://github.com/shancock9/f77-to-perl) | Fortran |
 | [app-a2p](https://github.com/Leont/app-a2p) | Awk |
-
 
 ## Haxe
 | Project name/link | Language(s) supported |
