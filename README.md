@@ -14,6 +14,7 @@
 | [gotopy](https://github.com/goki/gotopy) | Go |
 | [infl](https://github.com/cyndis/infl) | Ruby |
 | [ToPython](https://github.com/gwiederhecker/ToPython) | Mathematica |
+| [fut](https://github.com/fusionlanguage/fut) | Fusion |
 
 ## PHP
 
@@ -37,6 +38,7 @@
 | [Sharpify](https://github.com/kthompson/sharpify) | JavaScript |
 | [Hebron](https://github.com/HebronFramework/Hebron) | C |
 | [py2cs](https://github.com/uxmal/pytocs) | Python |
+| [fut](https://github.com/fusionlanguage/fut) | Fusion |
 
 ## Swift
 
@@ -46,6 +48,7 @@
 | [Kotlift](https://github.com/studo-app/Kotlift) | Kotlin |
 | [objc2swift](https://github.com/okaxaki/objc2swift), [Swiftify](https://github.com/Swiftify-Corp/Swiftify) | Objective-C |
 | [j2swift](https://github.com/eyob--/j2swift) | Java |
+| [fut](https://github.com/fusionlanguage/fut) | Fusion |
 
 ## Kotlin
 
@@ -161,6 +164,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [Rubyflux](https://github.com/headius/rubyflux) | Ruby |
 | [luaj](https://github.com/luaj/luaj) | Lua |
 | [m2j](https://github.com/m2sf/m2j) | Modula-2 |
+| [fut](https://github.com/fusionlanguage/fut) | Fusion |
 
 ## GLSL
 | Project name/link | Language(s) supported |
@@ -190,6 +194,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [dart2ts](https://github.com/polymer-dart/dart2ts) | Dart |
 | [lua2typescript](https://github.com/hazzard993/LuaToTypeScript) | Lua |
 | [wax](https://github.com/LingDong-/wax) | Wax |
+| [fut](https://github.com/fusionlanguage/fut) | Fusion |
 
 ## Dart
 | Project name/link | Language(s) supported |
