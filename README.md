@@ -174,6 +174,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [Cg2glsl](https://github.com/kakashidinho/Cg2glsl) | CG |
 | [SPIRV-CROSS](https://github.com/KhronosGroup/SPIRV-Cross) | SPIR-V |
 | [https://github.com/stackgl/glsl-transpiler](GLSL-transpiler) | JavaScript |
+| [https://github.com/SieR-VR/typesl](TypeSL) | TypeScript |
 
 ## Nim
 | Project name/link | Language(s) supported |
