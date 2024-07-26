@@ -21,6 +21,7 @@
 |-------------------|-----------------------|
 | [python-to-PHP](https://github.com/jneuendorf/python_to_php) | Python |
 | [js2php](https://github.com/endel/js2php) | JavaScript |
+| [ts2php](https://github.com/searchfe/ts2php) | TypeScript |
 | [lua2php](https://github.com/zaoqi/lua2php) | Lua |
 | [cs2php](https://github.com/isukces/cs2php) | C# |
 | [java2php](https://github.com/bafolts/java2php) | Java |
