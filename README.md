@@ -165,6 +165,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 ## GLSL
 | Project name/link | Language(s) supported |
 |-------------------|-----------------------|
+| [Circle]([https://github.com/Soft8Soft/pyosl](https://github.com/seanbaxter/shaders)) | C++ |
 | [pyosl](https://github.com/Soft8Soft/pyosl) | OSL |
 | [hlsl-into-glsl](https://github.com/spriest487/hlsl_into_glsl) | HLSL |
 | [SharpShader](https://github.com/Syncaidius/SharpShader) | C# |
