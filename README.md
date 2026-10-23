@@ -82,6 +82,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [Rustre](https://github.com/emersion/rustre) | Lustre |
 | [Corollary](https://github.com/tcr/corollary) | Haskell |
 | [Lua2Rust](https://github.com/the-language/lua2rust) | Lua |
+| [Faber](https://github.com/faberlang/faber) | Faber |
 ## Julia
 [Matlab to Julia](https://lakras.github.io/matlab-to-julia/)
 ## WebAssembly
@@ -103,6 +104,7 @@ See the main [list of languages that compile to Lua](https://github.com/hengesto
 | [pas2go](https://github.com/benhoyt/pas2go) | Pascal |
 | [f42go](https://github.com/Konstantin8105/f4go) | Fortran |
 | [ocaml2go](https://github.com/Lupus/ocaml2go) | OCaml |
+| [Faber](https://github.com/faberlang/faber) | Faber |
 
 ## Bash
 
